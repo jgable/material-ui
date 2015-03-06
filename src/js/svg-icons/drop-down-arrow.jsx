@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var SvgIcon = require('./svg-icon');
 
 var DropDownArrow = React.createClass({

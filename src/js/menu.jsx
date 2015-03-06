@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var CssEvent = require('./utils/css-event');
 var Dom = require('./utils/dom');
 var KeyLine = require('./utils/key-line');

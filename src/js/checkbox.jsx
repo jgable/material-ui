@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var EnhancedSwitch = require('./enhanced-switch');
 var Classable = require('./mixins/classable');
 var CheckboxOutline = require('./svg-icons/toggle-check-box-outline-blank');

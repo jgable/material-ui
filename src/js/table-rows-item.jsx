@@ -1,4 +1,4 @@
-var React = require('react'),
+var React = require('../react-lib'),
   Classable = require('./mixins/classable');
 
 var TableRowItem = React.createClass({

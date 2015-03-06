@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var Classable = require('./mixins/classable');
 var EnhancedButton = require('./enhanced-button');
 

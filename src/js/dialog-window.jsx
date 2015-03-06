@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var WindowListenable = require('./mixins/window-listenable');
 var CssEvent = require('./utils/css-event');
 var KeyCode = require('./utils/key-code');

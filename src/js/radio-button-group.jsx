@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var Paper = require('./paper');
 var Classable = require('./mixins/classable');
 var EnhancedSwitch = require('./enhanced-switch');

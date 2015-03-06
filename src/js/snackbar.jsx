@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var CssEvent = require('./utils/css-event');
 var Classable = require('./mixins/classable');
 var ClickAwayable = require('./mixins/click-awayable');

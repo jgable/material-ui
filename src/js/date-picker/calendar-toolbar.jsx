@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var DateTime = require('../utils/date-time');
 var IconButton = require('../icon-button');
 var NavigationChevronLeft = require('../svg-icons/navigation-chevron-left');

@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var Classable = require('./mixins/classable');
 var FontIcon = require('./font-icon');
 var Toggle = require('./toggle');

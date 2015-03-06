@@ -1,5 +1,5 @@
 var Classable = require('./mixins/classable');
-var React = require('react');
+var React = require('../react-lib');
 
 var Toolbar = React.createClass({
 

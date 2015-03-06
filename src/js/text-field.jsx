@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var Classable = require('./mixins/classable');
 var DomIdable = require('./mixins/dom-idable');
 var EnhancedTextarea = require('./enhanced-textarea');

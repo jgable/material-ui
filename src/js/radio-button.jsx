@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('../react-lib');
 var Classable = require('./mixins/classable');
 var EnhancedSwitch = require('./enhanced-switch');
 var RadioButtonOff = require('./svg-icons/toggle-radio-button-off');
